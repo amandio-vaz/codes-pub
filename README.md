@@ -1,6 +1,6 @@
-# 📦 Códigos Compartilhados Publicamente - Amândio Vaz
-
 <div align="center">
+
+# 📦 Códigos Compartilhados Publicamente - Amândio Vaz
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/amandio-vaz/codes-pub?style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/amandio-vaz/codes-pub?style=for-the-badge&logo=github)
